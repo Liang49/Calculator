@@ -1,5 +1,5 @@
 # Calculator
-
+Live Demo https://liang49.github.io/Calculator/
 ## Calculator Design
 Like a traditional calculator there is digits from 0-9 and operators +/-x. When the equal sign is clicked it will calculate our digits and give us an answer on display.
 
